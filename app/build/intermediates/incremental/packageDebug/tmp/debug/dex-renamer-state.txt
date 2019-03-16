@@ -1,0 +1,4 @@
+#Fri Mar 15 18:57:40 PDT 2019
+base.0=D\:\\AndroidStudio\\sampel code\\Bekup Android Studio\\side project\\Android-SwipeToDismiss-master1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

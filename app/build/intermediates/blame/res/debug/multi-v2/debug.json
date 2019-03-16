@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudio\\sampel code\\Bekup Android Studio\\side project\\Android-SwipeToDismiss-master1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\sampel code\\Bekup Android Studio\\side project\\Android-SwipeToDismiss-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,19,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "600,726,659",
+                        "endColumns": "58,66,66",
+                        "endOffsets": "654,788,721"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,114,181",
+                        "endColumns": "58,66,66",
+                        "endOffsets": "109,176,243"
+                    }
+                }
+            ]
+        }
+    ]
+}

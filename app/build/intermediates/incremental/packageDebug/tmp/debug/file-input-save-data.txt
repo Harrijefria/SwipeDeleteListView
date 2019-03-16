@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 15 18:57:40 PDT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\AndroidStudio\\sampel code\\Bekup Android Studio\\side project\\Android-SwipeToDismiss-master1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
